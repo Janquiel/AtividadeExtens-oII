@@ -1,0 +1,67 @@
+#body{
+    background-color: rgb(211, 211, 211);
+}
+#titulo{
+    color: black;
+    text-align: center;
+    margin-top: 0.5cm;
+    align-items: center;
+}
+.texto{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: larger;
+    margin-top: 0.5cm;  
+}
+.btn-primary{
+    align-self:center;
+}
+.btn-primary:hover{
+    background-color: darkblue;
+}
+.textcard{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.homelink{
+    color: blue;
+    justify-content: end;
+    margin-right: 1cm;
+}
+.homelink:hover{
+    color:darkblue;  
+}
+.card-link:link{
+    color: blue;
+}
+.card-link:hover{
+    color: darkblue
+}
+.card-link:active{
+    color: black;
+    background-color: blue;
+}
+.card-text{
+    font-family: 'Times New Roman', Times, serif;
+}
+.botao-resumo{
+    margin-left: 3rem;
+}
+.modal1{
+    font-size: 20px;
+    text-align: justify;
+}
+input, textarea{
+    width: 100%;
+    padding: 10px 0px;
+    margin: 10px 0px; 
+}
+.texto-agrad{
+    margin: 10%;
+    text-align: center;
+}
+.dados-contato{
+    position: absolute;
+    bottom: 0;
+}
